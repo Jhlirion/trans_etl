@@ -1,0 +1,5 @@
+psycopg2-binary
+pandas==1.4.3
+datetime==4.5
+numpy==1.23.2
+sqlalchemy==1.4.37
